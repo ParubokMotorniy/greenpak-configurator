@@ -1,0 +1,13 @@
+clear
+delay:2000
+color:111100000000
+delay:100
+color:000011110000
+delay:100
+color:000000001111
+delay:100
+color:110101100110
+delay:2000
+color:100101101010
+delay:500
+clear
